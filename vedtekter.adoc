@@ -1,0 +1,246 @@
+= dotDAGENEs vedtekter
+:toc:
+
+== §1 Navn
+
+=== 1.1 Organisasjonsnavn
+
+Organisasjonens navn er dotDAGENE
+
+=== 1.2 Underkomité
+
+Under dotDAGENE organiseres Ekskursjonskomiteen (Ekskom), som er ansvarlig for å planlegge hovedekskursjonen. Ekskom er en nodekomité og skiftes ut hvert år.
+
+== §2 Formål
+
+dotDAGENE er en frivillig, ideell interesseorganisasjon for studentene ved studieløpene for informatikk ved Norges teknisk-naturvitenskapelige universitet. Formålet er å:
+
+* Skape et bindeledd mellom studenter og næringslivet.
+* Arrangere faglige og sosiale aktiviteter, inkludert en årlig hovedekskursjon
+* Sikre at ekskursjonen er faglig relevant og økonomisk tilgjengelig for studentene
+
+Ekskom er en årlig sammensatt komité under dotDAGENE med ansvar for å planlegge og gjennomføre en hovedekskursjon for studentene. Ekskursjonen skal være faglig og sosialt berikende, samt gi studentene innsikt i yrkesmulighetene innen informatikk og relaterte felt.
+
+== §3 Generalforsamlingen
+
+=== 3.1 Generalforsamlingens rolle
+
+Generalforsamlingen er dotDAGENE øverste organ og er uavhengig av gjeldende styrevedtak. Den er ansvarlig for å vedta vedtektsendringer, velge styret, behandle regnskap for foregående år, samt godkjenne Ekskursjonskomiteens sammensetning.
+
+Styret kan gjøre redaksjonelle endringer i vedtektene utenom Generalforsamlingen, med forbehold om at disse endringene blir presentert ved neste Generalforsamling
+
+=== 3.2 Tidspunkt for generalforsamling
+
+Den ordinære generalforsamlingen skal avholdes årlig innen de tre (3) første månedene av kalenderåret.
+
+=== 3.3 Innkalling og Frister
+
+* Innkalling skal sendes ut til medlemmene senest fire (4) uker før generalforsamlingen skal avholdes.
+* Saksforslag og forslag til vedtektsendringer skal sendes til styret senest to (2) uker før generalforsamlingen skal avholdes
+* Fullstendig saksliste med vedtektsendringer skal tilgjengeliggjøres senest en (1) uke før møtedato. Denne skal også inneholde årsmelding, revidert regnskap og eventuelle andre relevante sakspapirer.
+
+=== 3.4 Ekstraordinær generalforsamling
+
+Det kan kalles inn til ekstraordinær generalforsamling dersom leder eller 50% av medlemmene ønsker det. Fristene for å kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær generalforsamling, jfr. §3.3.
+
+Ekstraordinær generalforsamling skal kun behandle den (de) saken(e) som står på dagsorden for den ekstraordinære generalforsamlingen.
+
+=== 3.5 Organisering
+
+Ved generalforsamling er følgende verv nødvendig.
+
+* Ordstyrer
+* Minst én referent - skriver referat under generalforsamlingen
+* Minst to til tellekorps - teller opp stemmer ved avstemming
+* To protokollunderskrivere - godkjenner referat for generalforsamling og de endrede vedtektene i etterkant av generalforsamlingen
+
+Protokollunderskriverne kan ikke ha rollen som referent.
+
+=== 3.6 Beslutningsdyktighet og avstemming
+
+For at en generalforsamling skal være beslutningsdyktig, må minst 60% av medlemmene ha møtt opp.
+
+* Alminnelig flertall er definert som mer enn 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer
+* Kvalifisert flertall er definert som mer enn 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer
+
+Blanke stemmer er ikke tellende, med mindre annet er spesifisert.
+
+==== 3.6.1 Saker
+
+Alle saker på generalforsamlingen avgjøres ved alminnelig flertall, med unntak av vedtektsendringer.
+
+==== 3.6.2 Vedtekter
+
+Vedtektsendringer avgjøres med kvalifisert flertall.
+
+Dersom en sak har bred støtte i salen kan ordstyrer forsøke å ta en sak opp til votering ved akklamasjon. Det skal gis rom for å uttrykke sin misnøye ved å vise tegn innen rimelig tid.
+
+Enhver stemmeberettiget person til stede kan kreve at det gjennomføres en fullstendig avstemning.
+
+Hverken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.
+
+=== 3.7 Stemmeberettigelse og talerett
+
+Alle medlemmer av organisasjonen, samt studenter som i henhold til §4 er eller har mulighet til å bli medlem i dotDAGENE, har talerett og stemmerett ved generalforsamlingen, forutsatt at de er til stede når generalforsamlingen godkjenner stemmeberettigede.
+
+Medlemmer av organisasjonen som ikke har mulighet til å møte i tide plikter å informere leder og oppgi en tilstrekkelig grunn til forsinkelse. Generalforsamlingen kan vedta å gi disse personene stemmerett samtidig som stemmeberettigede godkjennes. Generalforsamlingen kan vedta å gi medlemmer av organisasjonen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer.
+
+=== 3.8 Gjennomføring av valg
+
+Dersom det er mer enn én kandidat til et verv skal det avholdes anonymt valg for det aktuelle vervet. Man kan stemme “ingen” på valget. For å regnes som vinner av valget må en kandidat få over halvparten (1/2) av stemmene. Ved manglende flertall fjernes kandidaten med færrest stemmer og valget går inn i en ny runde.
+
+Ved manglende flertall på en kandidat med flest stemmer og stemmelikhet på de med færrest stemmer vil det avholdes en fullstendig ny runde.
+
+Innehavere av verv vil fortsette i sine roller til en ny leder er godkjent og alle oppgaver knyttet til ekskursjonen og generalforsamlingen er fullført. Komiteen skal oppløses i en to (2) ukers periode etter generalforsamlingen.
+
+Dersom generalforsamlingen ikke klarer å gjennomføre et valg, så vil et styremedlem av Online linjeforeningen for informatikk ta over inntil ekstraordinær generalforsamling. Ekstraordinær generalforsamling må kalles inn innen to (2) uker etter endt ordinær generalforsamling.
+
+==== 3.8.1 Fraskrivelse av rett til å stille til valg
+
+Personer som innehar et av følgende verv under generalforsamlingen, fraskriver seg retten til å stille til andre valg.
+
+* Ordstyrer
+* Tellekorps
+
+Med å stille til andre valg menes det at man ikke kan stille, eller bli nominert, til verv eller styre under generalforsamlingen.
+
+== §4 Medlemskap
+
+Studenter ved følgende studieprogram ved Norges teknisk-naturvitenskapelige universitet (NTNU) kan bli medlem ved søknad:
+
+* Bachelor i informatikk (studiekode BIT)
+* Master i informatikk (studiekode MSIT)
+
+I tillegg kan studenter med medlemskap i Linjeforeningen Online bli medlem ved søknad.
+
+== §5 Eksterne relasjoner
+
+=== 5.1 Online linjeforeningen for informatikk
+
+Organisasjonen har tette bånd til Online linjeforeningen for informatikk (Online). Det skal årlig forhandles frem en intensjonsavtale mellom de to organisasjonene som sikrer oppfølging, bruk av Onlines ressurser og kontaktnettverk.
+
+=== 5.2 Norges teknisk-naturvitenskapelige universitet
+
+Organisasjonen plikter etter generalforsamlingen å kontakte Norges teknisk-naturvitenskapelige universitet (NTNU) ved fakultet for informasjonsteknologi og elektroteknikk (IE) for å starte planleggingen av neste års hovedekskursjon.
+
+Organisasjonen plikter å følge de retningslinjer som til enhver tid er gitt av Norges teknisk-naturvitenskapelige universitet (NTNU).
+
+== §6 Struktur, ledelse og organisasjon
+
+=== 6.1 Styret
+
+Styret er dotDAGENEs høyeste organ mellom generalforsamlingene, og har det overordnede ansvaret for organisasjonens drift, økonomi og strategiske beslutninger.
+
+Styrets leder er den øverste lederen av dotDAGENE og har ansvar for å sikre at organisasjonens vedtekter, mål og aktiviteter følges. Lederen av Ekskursjonskomiteen (Ekskom) er underlagt styrets leder og rapporterer til styret.
+
+Ingen personer kan inneha to verv i dotDAGENE samtidig. Ved stemmelikhet har styrets leder dobbeltstemme. Styrets møter er lukket, men gjester kan inviteres dersom styret finner det hensiktsmessig.
+
+Styrets leder innehar også det overordnede HMS-ansvaret for organisasjonen og sikrer at alle aktiviteter gjennomføres i samsvar med gjeldende lover og retningslinjer.
+
+==== 6.1.1 Styrets sammensetning
+
+Styret består av:
+
+* Leder
+* Nestleder
+* Økonomiansvarlig
+* Minst 2 styremedlemmer
+
+==== 6.1.2 Fravær av styremedlem
+
+Dersom leder av styret blir fraværende, er det nestleder i styret som skal fylle stillingen. Dersom et styremedlem blir fraværende, er styret pliktig til å fylle stillingen så sammensetningen tilfredsstiller §6.1.1.
+
+Dersom leder eller nestleder av organisasjonen blir fraværende i den grad at det går utover vervets arbeidsoppgaver, skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+
+==== 6.1.3 Krav til kandidater
+
+Kandidater til styret må tilfredsstille krav til medlemskap etter §4
+
+==== 6.1.4 Valg av styret
+
+Verv i styret varer normalt i to semestre og utlyses ved Ordinær generalforsamling. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
+
+Ved Ordinær generalforsamlingen utlyses:
+
+* Leder
+* Nestleder
+* Økonomiansvarlig
+* minst 2 styremedlemmer
+
+=== 6.2 Ekskursjonskomiteen
+
+Ekskursjonskomiteen (Ekskom) er en underordnet komité i dotDAGENE og består av minimum en leder, en nestleder, en økonomiansvarlig, to styremedlemmer og en tillitsvalgt.
+
+==== 6.2.1 Valg av leder
+
+Lederkandidat og nestlederkandidat for Ekskom utpekes av sittende Ekskom før ordinær generalforsamling. Lederkandidaten skal godkjennes av generalforsamlingen med alminnelig flertall. Dersom kandidaten allerede er valgt inn i styret, skal valg av ny leder gjennomføres i henhold til §4. Dersom kandidaten ikke har blitt valgt inn i styret, og generalforsamlingen ikke godkjenner vedkommende som leder av Ekskom, skal det avholdes valg av ny leder i henhold til §4.
+
+==== 6.2.2 Medlemskap og verv
+
+Kun medlemmer som oppfyller §4 kan inneha verv i en Ekskom. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med styret.
+
+Ekskursjonskomiteen står ansvarlig for å informere om valgprosessen og sørge for at alle interesserte får mulighet til å stille til valg i god tid før generalforsamlingen.
+
+==== 6.2.3 Rekruttering og godkjenning
+
+Nyvalgt leder godkjennes på generalforsamlingen. Øvrige medlemmer av komiteen rekrutteres  gjennom en søknadsprosess som gjennomføres etter at leder og nestleder er valgt.
+
+=== 6.3 Mislighold av verv
+
+Om et styremedlem misligholder sine arbeidsoppgaver, kan ethvert medlem av organisasjonen, studenter som oppfyller kravene til medlemskap etter §4 eller Online linjeforeningen for informatikk sitt Hovedstyre, stille mistillitsforslag overfor vedkommende.
+
+Mistillitsforslaget skal leveres skriftlig til styret, som skal behandle saken. Ved mistillitsforslag blir den anklagede suspendert inntil styret har kommet med en avgjørelse. Mistillitsforslaget leses opp i styret, deretter skal den anklagede få en mulighet til å forsvare seg før styret diskuterer og avgjør saken uten den anklagede til stede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+== §7 Økonomi
+
+Organisasjonen skal forvalte en sunn økonomi og jobbe mot at organisasjonen ikke går i underskudd. dotDAGENE har ansvar for organisasjonens overordnede økonomi, mens Ekskursjonskomiteen (Ekskom) har full økonomisk og administrativ kontroll over hovedekskursjonen.
+
+=== 7.1 Likviditet
+
+Ekskom er nødt til å sørge for å til enhver tid ha nok likviditet til å utøve sitt virke og formål. For å gjøre dette er Ekskom nødt til å kreve inn et stort nok depositum fra deltakerne på hovedekskursjonen så økonomisk sikkerhet er ivaretatt.
+
+=== 7.2 Avlysning
+
+Dersom hovedekskursjonen avlyses, skal Ekskom tilbakebetale depositum til deltakerne i den grad det er mulig, etter at eventuelle avbestillingsgebyrer og andre økonomiske forpliktelser er dekket.
+
+=== 7.3 Overskudd
+
+Eventuelle midler igjen etter at alle kostnader er betalt, videreføres til påfølgende års hovedekskursjon. Dersom ekskursjonen ble avlyst skal overskuddet primært brukes til kompensasjon for en unaturlig stor deltakelse, samt dekning av egenandel til deltakere som opprinnelig skulle på den avlyste turen.
+
+Med kompensasjon for en unaturlig stor deltakelse menes det at overskuddet brukes som støtte til deltakerne slik at støtten per deltaker ligger på det samme nivået som den hadde dersom ingen fra den avlyste ekskursjonen hadde deltatt.
+
+=== 7.4 Underskudd
+
+Dersom hovedekskursjonen går i underskudd, skal deltakerne på ekskursjonen dekke det økonomiske tapet.
+
+=== 7.5 Dugnader
+
+Midler innsamlet ved dugnad brukes til å støtte reisen til de personene som har deltatt på dugnad. En deltaker kan ikke motta mer støtte enn at det dekker vedkommendes egenandel for hovedekskursjonen. En deltaker kan ikke motta mer støtte enn det som er definert av skatteetaten sin paragraf om honorar.
+
+=== 7.6 Utbetaling av depositum
+
+Ved endt hovedekskursjon skal depositum, fratrukket hver deltakers egenandel, fra hovedekskursjon fordeles tilbake til hver enkelt deltaker.
+
+Utbetalingen forutsetter at ekskursjonen ikke har gått i underskudd, jf. § 7.4. Dersom det foreligger et overskudd, vil dette først håndteres i henhold til retningslinjene i § 7.3 før resterende midler tilbakebetales som del av depositum.
+
+=== 7.7 Kontrakter
+
+Ekskom er pliktig til å signere kontrakt med alle deltakere som melder seg på turen. Denne kontrakten skal både sikre organisasjonens økonomiske sikkerhet etter §7 og deltakerens sikkerhet på turen. Kontrakten er bindende og deltakeren anses ikke som påmeldt før denne er signert.
+
+=== 7.8 Budsjett
+
+Ekskom plikter å sette opp et budsjett for turen så snart priser og antall deltakere er fastsatt. Budsjettet skal godkjennes av styret før det trer i kraft.
+
+Økonomiansvarlig i Ekskom kan revidere budsjettet ved behov, men plikter å informere styret om eventuelle endringer. Styret har rett til å tilbakevise endringer med 2/3 flertall dersom de vurderes å være økonomisk uforsvarlige.
+
+Enhver deltaker på ekskursjonen, samt Hovedstyret i Online linjeforeningen for informatikk, har til enhver tid rett til å få innsyn i gjeldende budsjett.
+
+== §8 Oppløsning
+
+=== 8.1 Vedtak om oppløsning
+
+Vedtak om oppløsning av organisasjonen treffes av ordinær generalforsamling med 3/4 flertall. Deretter skal det kalles inn til ekstraordinær generalforsamling tre (3) måneder etter gyldig vedtak om oppløsning for å gjennomføre et nytt vedtak om oppløsning med 3/4 flertall. Organisasjonen anses ikke som oppløst før både ordinær og ekstraordinær generalforsamling har gjort et gyldig vedtak om oppløsning.
+
+=== 8.2 Midler
+
+Ved oppløsning av organisasjonen, skal depositum overføres tilbake til aktuelle deltakere. Eventuelt overskudd etter dette skal overføres til Online linjeforeningen for informatikk.
